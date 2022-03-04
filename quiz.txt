@@ -1,0 +1,38 @@
+1. The first president of USA
+Washington
+Kelly
+Obama
+Tramp
+2. The biggest building in the world
+Burge-Halifa
+SDU
+Sky ship
+Pentagon
+3. {blank} is the king of jungle
+lion
+4. Programming language for IOS
+Swift
+Kotlin
+Java
+C++
+5. {blank} language have strong Tab control
+Python
+6. This language use 90% in frontend
+JavaScript
+Ruby
+Scala
+C#
+7. The most progressive programming language in 2020 is {blank}
+Go
+8. We use this language when coding game
+C++
+Java
+Python
+C#
+9. This language using more in DATA
+Python
+Assembler
+Perl
+Ruby
+10. Now the most popular backend language in KZ is {blank}
+PHP
